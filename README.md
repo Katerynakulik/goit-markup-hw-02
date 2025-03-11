@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-one page, without css
+# goit-markup-hw-02
+one page, with css
