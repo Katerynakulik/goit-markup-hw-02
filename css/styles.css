@@ -1,3 +1,28 @@
-body{
+body {
     font-family: 'Roboto', 'Raleway', sans-serif;
+    background-color: white;
+    color: black;
+}
+.title{
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'Roboto';
+}
+
+.web-title {
+    font-family: 'Raleway';
+    text-transform: uppercase;
+}
+
+span {
+    color: #4d5ae5;
+}
+address{
+    font-family: 'Roboto';
+    font-weight: 400;
 }
