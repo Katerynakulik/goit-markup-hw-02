@@ -3,7 +3,7 @@ body {
     background-color: white;
     color: black;
 }
-.title{
+.header{
     font-family: 'Roboto';
     font-weight: 500;
 }
@@ -14,15 +14,30 @@ a {
     font-family: 'Roboto';
 }
 
-.web-title {
+.web-header {
     font-family: 'Raleway';
     text-transform: uppercase;
 }
 
-span {
+.web {
     color: #4d5ae5;
 }
 address{
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+.title{
+    background-color: #2e2f42;
+    text-align: center;
+}
+h1{
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+.order-button{
+    background-color:#4d5ae5;
+    color:#ffffff;
     font-family: 'Roboto';
     font-weight: 400;
 }
