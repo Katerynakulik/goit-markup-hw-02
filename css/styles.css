@@ -61,6 +61,7 @@ body {
     font-weight: bold;
     line-height: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
    }
 .order-button{
     background-color:#4d5ae5;
@@ -85,11 +86,13 @@ body {
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
+    letter-spacing: 0.02em;
     
 }
 .strengths-list-text{
     font-weight: 400;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .team{
     background-color: #F4F4FD;
@@ -113,6 +116,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
+    letter-spacing: 0.02em;
 }
 
 .team-list-text {
@@ -135,6 +139,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-list-text {
