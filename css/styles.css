@@ -49,16 +49,26 @@ a {
     background-color: #2e2f42;
    
 }
-h1{
+.title-capture{
     color: #ffffff;
-    
+    font-size:56px;
     font-weight: bold;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 .order-button{
     background-color:#4d5ae5;
     color:#ffffff;
-   
-    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing:0.04em;
+    cursor: pointer;
+}
+.order-button:hover, .order-button:focus{
+    background-color: #404BBF;
 }
 
 .section-title{
