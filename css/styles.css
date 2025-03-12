@@ -29,7 +29,7 @@ body {
 .web-header:hover, .web.header:focus{
     color: #404bbf;
 }
-.web-header .span-studio {
+.span-studio {
     color: #2e2f42;
 }
 .navbar {
@@ -46,6 +46,8 @@ body {
 }
 .contact-mail {
     line-height:1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
     
 }
 .contact-mail:hover, .contact-mail:focus {
