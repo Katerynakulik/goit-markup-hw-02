@@ -7,6 +7,9 @@ body {
 .header{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
+    font: size 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
 a {
     color: inherit;
@@ -19,14 +22,28 @@ a {
 .web-header {
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
-}
-
-.web {
     color: #4d5ae5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
-address{
-   
+.web-header:hover, .web.header:focus{
+    color: #404bbf;
+}
+.span-studio {
+    color: #2e2f42;
+}
+.contact{
+    font-style: normal;
     font-weight: 400;
+}
+.contact-mail {
+    line-height:1.5;
+    letter-spacing:0.2em;
+    font: size 16px;
+}
+.contact-mail:hover, .contact-mail:focus {
+    color: #404bbf;
 }
 .title{
     background-color: #2e2f42;
