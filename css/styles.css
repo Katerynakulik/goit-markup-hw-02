@@ -43,20 +43,24 @@ body {
     letter-spacing: 0.02;
     color: #2e2f42;
 }
+.navbar-punkt:focus,
+.navbar-punkt:hover{
+    color: #404bbf;
+}
 .contact{
     font-style: normal;
     font-weight: 400;
 }
 
-.contact-mail {
+.contact-way {
     line-height:1.5;
     letter-spacing: 0.02em;
     color: #434455;
 
     
 }
-.contact-mail:focus,
-.contact-mail:hover {
+.contact-way:focus,
+.contact-way:hover {
     color: #404bbf;
 }
 .title{
